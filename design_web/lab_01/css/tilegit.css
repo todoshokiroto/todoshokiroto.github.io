@@ -12,10 +12,12 @@
        font-family:'Courier New', Courier, monospace
        }
        li
-       { color: blue;
+       { 
+        color: blue;
         font-size: 20px; 
-           
-       font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;}
+        font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+       }  
+       
    .gato_calvo
    {
    width: 400px;
@@ -23,8 +25,8 @@
    }   
    .lista
    {
-       font-size: 20px;
-       font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+    color: blue;   
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
    }
    .nomes
    {

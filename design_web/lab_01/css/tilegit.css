@@ -9,7 +9,8 @@
        h1
        {
         color: crimson;
-       font-family:'Courier New', Courier, monospace
+        font-family:'Courier New', Courier, monospace;
+        text-align: center; 
        }
        li
        { 
@@ -17,6 +18,17 @@
         font-size: 20px; 
         font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
        }  
+
+
+    .table-body
+    {
+        font-size: 50px;
+        color:goldenrod;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        background-color: lightyellow;
+       
+    }
+
        
    .gato_calvo
    {
@@ -34,4 +46,7 @@
        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
 
    }
+
+
+
 

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<lista>
+    <R1>
+        <nome>Gaspar</nome>
+            <lugares>
+                <n_da_rua>Rua das Alfandegárias</n_da_rua>
+                <n_da_casa>666</n_da_casa>
+                <casa>22 99124-3557</casa>
+                <trabalho>22624535</trabalho>
+            </lugares>
+    </R1>
+    <R2>
+        <nome>Rafael</nome>
+            <lugares>
+                <n_da_rua>Rua dos alpistes </n_da_rua>
+                <n_da_casa>201</n_da_casa>
+                <casa>22 9998-2671</casa>
+                <trabalho>22872314</trabalho>
+            </lugares>
+    </R2>
+</lista>

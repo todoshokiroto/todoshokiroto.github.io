@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<cupom>
+    <dados_secundarios>
+        <data>22/05/2021</data>
+        <cpf>091.218.297.33</cpf>
+        <cod>0000022</cod>
+    </dados_secundarios>
+    <dados_principais>
+        <h1>Cupon fiscal</h1>
+        <preco_unico>150,00</preco_unico>
+        <quant>15</quant>
+        <preco_total>2250,00</preco_total>
+    </dados_principais>
+</cupom>

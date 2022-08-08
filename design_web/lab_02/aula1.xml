@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<curriculo>
+    <dadosp>
+        <nome>G. Gabriel</nome>
+        <data>Rua legal de Casas Legais</data>
+        <gosto>Adora comer Almondegas</gosto>
+    </dadosp>
+    <dadosimp>
+        <experiencia>Tem certa experiencia em algumas linguagens de programção como
+            <lin>  C#</lin>
+            <lin>  C++</lin>
+            <lin>  GML</lin>
+        </experiencia>
+        <comorbidades>
+            <doencas>Bronquite</doencas>
+            <doencas>Rinite </doencas>
+            <alerigias>Pelos</alerigias>
+            <alerigias>Poeira</alerigias>
+        </comorbidades>
+    </dadosimp>
+</curriculo>
+

@@ -1,0 +1,56 @@
+<!doctype html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>sla mó fita</title>
+        <link rel="stylesheet" href="../lab_01/css/tilegit.css">
+        <style>
+            .li
+            {  
+                color:black;
+                font-size: 15px;
+            }
+        </style>
+
+    </head>
+    <body>
+        <hr>
+        <h1>Envie uma mensagem</h1>
+        <hr>
+        <fieldset>
+            <form action="https://formspree.io/f/myyvykbq" method="post" style="text-align: center;">
+                <label>Digite seu nome</label>
+                <br>
+                <input type="text" placeholder="seu nome" required="required"  name="nome"> 
+                <br><br>
+                <label>digite sua mensagem</label>
+                <br>
+                <textarea cols="60" rows="20" required placeholder="Gaspar, você é um gato" name="mensagem"></textarea>
+                <br><br>
+                <label>aceitas ser meu eterno servo?</label>
+                <input type="checkbox" value="SIM" name="servo" checked> 
+                <br><br>
+                <label>Pergunta aleatória para testar as Radio Button</label>
+            <ul style="text-align:center; ">
+                    <li  class="li">Gay<input type="radio" value="gay" name="sexualidade"></li>
+                    <li class="li">Hetero<input type="radio" value="Hetero" name="sexualidade"></li>
+                    <li class="li">Bi<input type="radio" value="Bi" name="sexualidade"></li>
+                    <li class="li">Assexual<input type="radio" value="Assexual" name="sexualidade"></li>
+                    <li class="li">Outro<input type="radio" value="outro" name="sexualidade"></li>
+                </ul>
+                <br><br>
+                <label>selecione um lugar</label>
+                <select>
+                    <option>cascatinha</option>
+                    <option selected>centro</option>
+                    <option>conselheiro</option>
+                    <option>Olaria</option>
+                    <option>Outro</option>
+                </select>
+                <br><br>
+                <button type="submit">Enviar</button>
+            </form> 
+        </fieldset>     
+
+    </body>
+</html>

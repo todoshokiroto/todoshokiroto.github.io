@@ -18,6 +18,7 @@
        }
        li
        { 
+        text-align:center;
         color: blue;
         font-size: 20px; 
         font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
@@ -33,7 +34,6 @@
        
     }
 
-       
    .gato_calvo
    {
    width: 400px;
@@ -51,6 +51,20 @@
        font-size: 20px;
        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
 
+   }
+   h2{
+       font-size: 30px;
+       text-align:center;
+       font-family: sans-serif;
+       color: cadetblue;
+   }
+   h3{
+       text-align: center;
+       color:palevioletred;
+
+   }
+   header{
+       background-color:rgb(2,27,38);
    }
    
 

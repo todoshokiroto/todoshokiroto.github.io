@@ -27,7 +27,12 @@ azul-link: rgb(9, 70, 92)
 */
 
 body {
+    position: relative;
+    left: 27em;
+    width: 50em;
     background-color:rgb(2, 27, 38);
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
 }
 main {
     background-color: #fff;
@@ -59,4 +64,16 @@ nav li {
 
 nav a {
     color:#fff;
+}
+#banner h2{
+    font-size:5em;
+}
+#banner{
+
+}
+a{
+    text-decoration:none;
+}
+header li:first-child a{
+    color:lightblue;
 }

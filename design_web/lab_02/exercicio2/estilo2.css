@@ -1,0 +1,85 @@
+body{
+    position: relative;
+    left:15em;
+    width:60em;
+    background-color:#fff;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: rgb(251, 249, 245);
+}
+#header1{
+    display: flex;
+    flex-direction: row;
+    justify-content:space-between;
+    background-image:url(./entregador_site4.png);
+    background-repeat: no-repeat;
+    width:100%;
+    background-position-x:500px;
+}
+#header1 div{
+    width:350px;
+}
+
+main header{
+    background-color:rgb(2, 27, 38);
+    padding:1px;
+}
+main header ul{
+    display:flex;
+    flex-direction: row;
+    justify-content:space-between;
+    list-style:none;
+}
+main header li a{
+    text-decoration:none;
+    color: #fff;
+}
+#FCH{
+    background-color:rgb(246, 123, 8);
+}
+h1{
+    font-size:1.4em;
+}
+#ligue{
+    background-color:rgb(2, 27, 38);
+    font-size:1.3em;
+}
+#numero{
+    display: flex;
+    flex-direction: row;
+}
+section{
+    display: flex;
+    flex-direction: row;
+}
+
+section div {
+padding:7.5px;
+margin:15px
+}
+section img{
+    width:10em;
+    margin:0;
+}
+section div figcaption{
+    background-color:rgb(2, 27, 38) ;
+    color: #fff;
+    font-size:1em;
+}
+button{
+    background-color:rgb(246, 123, 8);
+}
+footer{
+    background-color:rgb(2, 27, 38);
+    color: #fff;
+    display:flex;
+    flex-direction:row;
+}
+input,textarea,blockquote{
+background-color: black;
+}
+
+footer div{
+    margin:50px;
+    padding: 15px;
+    width:20em;
+}

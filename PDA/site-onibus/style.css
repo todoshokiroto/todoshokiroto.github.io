@@ -125,3 +125,25 @@ div input:hover{
     background-color:white;
     color:#343a40;
 }
+form{
+    width:100%;
+}
+form input{
+    width:48%;
+    margin-left:1%;
+}
+
+form select{
+    width:100%;
+
+}
+form textarea{
+    width:100%;
+}
+.sectionFutter{
+    padding:0px;
+    border:none;
+    width:60%;
+    margin-left: 20%;
+    margin-right:20%;
+}

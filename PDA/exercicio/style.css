@@ -1,0 +1,21 @@
+.div3{
+    display:flex;
+    flex-direction:row;
+
+}
+.div1 ul{
+    list-style:none;
+    background-color:tomato;
+}
+.div2 ul{
+    list-style:none;
+    gap:2em;
+    display:flex;
+    flex-direction:row;;
+    background-color:yellow;
+}
+@media screen and (max-width:1080px){
+    body{
+        background-color:black;
+    }
+}

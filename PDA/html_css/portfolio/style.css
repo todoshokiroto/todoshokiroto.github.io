@@ -1,0 +1,96 @@
+@font-face{
+    font-family:mont-bold;
+    src:url('./fonte/mont-bold.ttf')
+}
+@font-face{
+    font-family:leJourSerif;
+    src:url('./fonte/LeJourSerif.ttf')
+}
+@font-face{
+    font-family:dreamAvenue;
+    src:url('./fonte/DreamAvenue.ttf')
+}
+@font-face{
+    font-family:quiche-display;
+    src:url('./fonte/quiche-display-bold.ttf')
+}
+header{
+    background-color: transparent;
+    padding-right:10%;
+    padding-top:2%;
+}
+.UlHead{
+    display:flex;
+    list-style:none;
+    gap:10px;
+    font-family:mont-bold;
+    justify-content:flex-end;
+    font-size:20px;
+    color:white
+}
+.listaHeader{
+   padding-right:15px;
+}
+.listaHeader:hover{
+    transition:0.5s;
+    color:rgb(139, 51, 0);
+}
+h1{
+    font-size:7em;
+    color:white;
+    font-family:quiche-display;
+    padding:0px
+}
+span{
+    color:sienna;
+}
+body{
+    background-color: blanchedalmond;
+}
+main{
+    margin-left:5%;
+    margin-right:5%;
+    margin-top:0px;
+}
+@media screen and (max-width: 1000px){
+    main{
+        margin-top:0%;
+    }
+    h1{
+        font-size:5em;
+        color:white;
+    }
+}
+p{
+    font-family:dreamAvenue;
+    font-size:2em;
+    color:rgb(139, 51, 0)
+}
+div{
+    display:flex;
+    flex-wrap:wrap;
+}
+#textos div{
+    width:45%;
+    padding:2.5%;
+}
+a:hover {
+    color:#000000;
+    text-decoration:underline;
+    transition:0.5s;
+  }
+.lista2{
+    list-style:none;
+    font-size: 2em;
+    display:flex;
+    gap:30px;
+    color:rgb(139, 51, 0)
+}
+.apresenta{
+    box-shadow: 2px 2px 2px grey ;
+    border-radius:16px;
+}
+a{
+    text-decoration:none;
+    color:rgb(139, 51, 0)
+}

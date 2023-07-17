@@ -45,7 +45,8 @@ span{
     color:sienna;
 }
 body{
-    background-color: blanchedalmond;
+    background-image:url(https://cdn.discordapp.com/attachments/1129508213243531364/1129549470384803932/IMG_6521.jpg);
+    background-size:110%;
 }
 main{
     margin-left:5%;
@@ -87,7 +88,7 @@ a:hover {
     color:rgb(139, 51, 0)
 }
 .apresenta{
-    box-shadow: 2px 2px 2px grey ;
+    box-shadow: 2px 2px 2px rgb(184, 149, 111) ;
     border-radius:16px;
 }
 a{
